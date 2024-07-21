@@ -21,6 +21,7 @@ These insights will empower Danny to make informed decisions about his customer 
 * `pizza_toppings`: Table with ingredient details (topping id, topping name)
 
 ## Entity- Relationship Diagram
+![Pizza Runner](https://github.com/user-attachments/assets/84982c32-a42d-4b74-abd4-198a043217ce)
 
 
 
