@@ -19,6 +19,7 @@ By unlocking these insights, Danny can personalize the dining experience for his
 
 
 ## Entity- Relationship Diagram
+![ER - Diagram Danny's Diner](https://github.com/user-attachments/assets/0658cbd4-e71f-4ed3-8583-196759aae261)
 
 
 
